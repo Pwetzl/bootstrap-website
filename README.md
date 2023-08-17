@@ -1,5 +1,5 @@
-     # bootstrap
+# bootstrap project
 
-    - i have learnt about the grid layout
+- I know know how to put columns and rows.
 
-    - i now know how to colums and rows
+- I can also create nav bars easily using rows
